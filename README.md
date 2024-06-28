@@ -1,7 +1,7 @@
 # learning-monkey
 Learning Donkey is a project aimed at developing a full-stack web application using the MERN stack. It will track daily progress, provide a points system for tasks completed, and include an AI chat bot for user interaction.
 
-Features
+Features:
 User Authentication: Account creation and login functionality.
 Progress Tracking: Daily points system to monitor productivity.
 Visualization: Graphical representation of user progress.
@@ -11,11 +11,12 @@ Frontend: React.js
 Backend: Node.js, Express.js
 Database: MongoDB
 AI: AI-powered chat bot for user interaction.
-Installation
+
+Installation:
 This project is under development and not yet available for installation.
 
-Contributing
+Contributing:
 Contributions are currently not open as the project is in its initial stages.
 
-License
+License:
 This project is not yet licensed.
